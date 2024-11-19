@@ -28,8 +28,6 @@ public class Main {
 //        DisemvowelTrolls disemvowelTrolls = new DisemvowelTrolls();
 //        System.out.println(disemvowelTrolls.disemvowel("TrOll"));
 
-//        WriteNumberInExpandedForm writeNumberInExpandedForm = new WriteNumberInExpandedForm();
-//        writeNumberInExpandedForm.expandedForm(567009);
 
 //        Fibonacci f = new Fibonacci();
 //        System.out.println(f.fibonacci(4));
@@ -44,7 +42,6 @@ public class Main {
 //        arrayDiff2.arrayDiff(new int[]{1,2,2,2,2,10}, new int[]{2,3,4,5});
 //        int[] result = arrayDiff2.arrayDiff(new int[]{1,2,2,2,2,10}, new int[]{2,3,4,5});
 //        for (int x : result) System.out.println(x);
-
 
     }
 }
