@@ -1,6 +1,7 @@
 package org.example;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -43,6 +44,5 @@ public class Main {
 //        arrayDiff2.arrayDiff(new int[]{1,2,2,2,2,10}, new int[]{2,3,4,5});
 //        int[] result = arrayDiff2.arrayDiff(new int[]{1,2,2,2,2,10}, new int[]{2,3,4,5});
 //        for (int x : result) System.out.println(x);
-
     }
 }
