@@ -1,12 +1,9 @@
 package org.example;
-
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
-import java.util.stream.Collectors;
 
-
+//Codewars instructions:
 //Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 //
 //It should remove all values from list a, which are present in list b keeping their order.
