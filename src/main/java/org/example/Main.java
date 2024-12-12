@@ -1,9 +1,5 @@
 package org.example;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.math.BigInteger;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +11,7 @@ public class Main {
 //        System.out.println(rgbToHex.rgb(-10, 12,255));
 
 //        StringEndsWith stringEndsWith = new StringEndsWith();
-//        System.out.println(stringEndsWith.solution("Javajavajava", "vajava"));
+//        System.out.println(stringEndsWith.solution("Javajava", "vajava"));
 
 //        ExesAndOhs exesAndOhs = new ExesAndOhs();
 //        System.out.println(exesAndOhs.getXO("OooxxR"));
